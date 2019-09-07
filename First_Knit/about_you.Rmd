@@ -1,7 +1,7 @@
 ---
 title: "First Knit"
-author: "Your Name"
-date: "Date, 2019"
+author: "Luis Hernandez"
+date: "September 03, 2019"
 output: 
   html_document:
     number_sections: true
@@ -43,7 +43,8 @@ What do you want to achieve in life?  What college subject do you think would be
 
 ###my answer     
   
-   
+I would like to build a career in a field that I enjoy.
+I would really value a course in R and Phython, also a course in Geographic information systems (GIS)
  
 
 
@@ -54,9 +55,10 @@ Have you ever gone to foreign countries, if so which ones, if not Where might yo
 
 ###my answer     
   
-   
+I have been to Mexico. I would like to go to Egypt and Iceland.
+I have never served in the military.
+If drafted, I would like to go into the Air Force.
   
-
 
 
 
@@ -67,9 +69,6 @@ What grade do you need to attain in stats to not upset your future plans, What i
 ###my answer     
 
 I am not taking Math 115 
-   
- 
-
 
 
 
@@ -80,9 +79,19 @@ How do you get to class? Are there issues that limit when you can be at the coll
 
 ###my answer   
   
-   
   
+I rate myself a 7 out of 10.
+I have a computer at home. It is a windows computer.
+I do have internet access at home.
+
+I got to class by driving.
+I do not have any issues that limit me from coming to campus.
+I attended high school in Bakersfield, California.
+I currently work at CSUB.
 
 
 
+## critique of the AI in Business Article
+
+The article discusses the use of AI in current organizations. Thousands of executives were asked if they used AI in their core activities; less than 10% of responses used AI in that way. The lack of AI use has to do with the organizational culture and barriers to change. The slow adoption of AI is also due in part to the lack of understanding of how difficult it can be to apply AI to processes that are normally only done by human labor. Additionally, for AI to be successful, it must be applied uniformly across an organization, not just parts of it. This practice may end up braking processes between departments within an organization. The major process than successful companies promote is adoption. To adopt new technologies, an organization must insure their employees are educated in the constant changes necessary to adopt AI and continue to improve with it. The article does a good job at explaining that four components required to educate an organization on the adoption process of AI (Leadership, Analytics, Translator, and End user). Adopting AI requires experts that know how to use it and how to pass on that information. It also requires the use of analytics to continuously improve the use of AI. Additionally, an organization requires translators that can use analytics for business processes. Lastly, an organization needs end users with basic knowledge of AI; enough to take care of daily tasks.  
 
